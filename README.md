@@ -32,25 +32,30 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Staging
  - Committing
 
-### Exercise 2 – Run and test the local code in VS Code 
-
- - Opening the local folder 
- - Reviewing the code 
- - Running and testing the code
- - Reviewing VS Code Git/GitHub 
- - Pushing to GitHub
-
 ### Azure Basics 
  - Resource Groups
  - Target environments - VMs, App Service, ACI, Kubernetes
 
-### Exercise 3 - Set up Azure for this workshop
+### Exercise 2 - Set up Azure for this workshop
 
  - Create a resource group
  - Create a staging server
  - Create a production server
  - Create a deployment slot on the production server 
  - Set the deployment slot to 50% traffic
+
+ 
+ ### Feature Flags
+ - Azure App configuration Manager
+ - Options for filters
+ - Connecting apps to Feature Manager
+ - Feature flags in action
+
+### Exercise 3 - Setting up feature flags 
+ [Related Materials on Microsoft Docs](https://cda.ms/1XD)
+ - Create an App Configuration Store
+ - Add a feature Manager
+ - Set the percentage filter
 
 ### DevOps Introduction
  - People, process and products
@@ -103,9 +108,9 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 ## DevOps with GitHub
 
 ### GitHub Actions Introduction 
-[Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-automate-tasks/)
+[Related materials on Microsoft Learn ](https://cda.ms/1XF)
 
-[Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
+[Related Materials on Microsoft Docs](https://cda.ms/1XG)
  - Workflows
  - Action blocks
  - Triggers
@@ -114,26 +119,14 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Logs
 
 ### GitHub Actions for CI and CD 
- [Related materials on Microsoft Learn ](https://docs.microsoft.com/en-us/learn/modules/github-actions-ci/)
+ [Related materials on Microsoft Learn ](https://cda.ms/1XH)
  - Using a Template
  - Building
  - Working with Artifacts
  - Testing
  - Automating Reviews
-  
- ### Feature Flags
- - Azure App configuration Manager
- - Options for filters
- - Connecting apps to Feature Manager
- - Feature flags in action
-
-### Exercise 7 - Setting up feature flags in Azure app Configuration Manager 
- [Related Materials on Microsoft Docs](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core?tabs=core3x)
- - Create an App Configuration Store
- - Add a feature Manager
- - Set the percentage filter
-
-### Exercise 8 - Generating a template with deployment manager
+ 
+### Exercise 7 - Generating a template with deployment manager
  - Deploy to an Azure Web App 
  - Review the workflow results
  - Set up a connection string to the App Configuration store

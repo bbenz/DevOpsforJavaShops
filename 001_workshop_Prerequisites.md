@@ -22,7 +22,9 @@ Make sure the following are installed on your laptop:
  - This workshop requires a GitHub account that can run GitHub actions.
  - You should be able to to fork and clone a git repo from GitHub
  - PRO TIP : Signing into GitHub via VS Code before the workshop to save a little time.  
- - Also feel free to fork and clone this repo.
+ - Also feel free to fork and clone these repos:
+ - https://github.com/bbenz/devopsforjavashops-TestABAzureDevOPs
+ - https://github.com/bbenz/devopsforjavashops-TestFeatureFlags
  
  
 
