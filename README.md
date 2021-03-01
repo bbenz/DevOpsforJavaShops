@@ -6,12 +6,13 @@
 ## Workshop delivery 
 I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
-### Next workshop: 
-[DevNexus 2021](https://devnexus.com/), February 18, Time TBD 
+
 
 
 
 ### Past deliveries:
+[DevNexus 2021](https://devnexus.com/), February 18, 2021 
+
  October 12 - JDD Conference Europe.  
  - [JDD Conference Europe, Virtually (CET) October 12, 2020](https://jdd.org.pl/) 
 
@@ -26,7 +27,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
 ### Introduction
 
 ### Exercise 1 – Fork and Clone GitHub repositories for this workshop 
-
+[Go To Exercise](Exercise1.md)
  - Fork and clone a main branch
  - Making changes to the local repo
  - Staging
@@ -37,7 +38,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Target environments - VMs, App Service, ACI, Kubernetes
 
 ### Exercise 2 - Set up Azure for this workshop
-
+[Go To Exercise](Exercise2.md)
  - Create a resource group
  - Create a staging server
  - Create a production server
@@ -52,6 +53,8 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Feature flags in action
 
 ### Exercise 3 - Setting up feature flags 
+[Go To Exercise](Exercise3.md)
+
  [Related Materials on Microsoft Docs](https://cda.ms/1XD)
  - Create an App Configuration Store
  - Add a feature Manager
@@ -75,6 +78,8 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - GitHub Extensions
 
 ### Exercise – 4 - Azure DevOps for CI
+[Go To Exercise](Exercise4.md)
+
  - Connect a repo to an Azure DevOps project using the Azure Pipelines extension in the GitHub marketplace
  - Choose the default build template
  - Replace the default template with a provided template
@@ -83,6 +88,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Review the build log
 
 ### Exercise 5 – Azure DevOps for CD 
+[Go To Exercise](Exercise5.md)
  - Create a new Release pipeline
 	Staging
 	Production
@@ -94,6 +100,7 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Review the release
 
 ### Exercise 6 - A/B testing
+[Go To Exercise](Exercise6.md)
  - Make a change in GitHub
  - Commit and Push
  - Review the change 
@@ -127,6 +134,8 @@ Here are list of free and open source [prerequisites](001_workshop_Prerequisites
  - Automating Reviews
  
 ### Exercise 7 - Generating a template with deployment manager
+[Go To Exercise](Exercise7.md)
+
  - Deploy to an Azure Web App 
  - Review the workflow results
  - Set up a connection string to the App Configuration store
