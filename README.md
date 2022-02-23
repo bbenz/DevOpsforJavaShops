@@ -4,21 +4,10 @@
 
 
 ## Workshop delivery 
-I'm happy to deliver this workshop virtually at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
-
-
-
-
-
-### Past deliveries:
-[DevNexus 2021](https://devnexus.com/), February 18, 2021 
-
- October 12 - JDD Conference Europe.  
- - [JDD Conference Europe, Virtually (CET) October 12, 2020](https://jdd.org.pl/) 
+I'm happy to deliver this as a workshop or presentation at destinations worldwide, and also to support anyone else who wants to deliver this, especially in local languages.
 
 ## Prerequisites
 Here are list of free and open source [prerequisites](001_workshop_Prerequisites.md)
-
 
 # Agenda
 
